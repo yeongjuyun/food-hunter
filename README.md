@@ -1,4 +1,11 @@
-# React Mini App
+# Food Hunter
+
+## 프로젝트 소개
+
+Food Hunter 는 맛집 소개 사이트입니다. <br>
+이미지 카드를 클릭하면 해당 맛집에 대한 정보를 알 수 있습니다. <br>
+
+<br>
 
 ## 설치 및 실행 방법
 
