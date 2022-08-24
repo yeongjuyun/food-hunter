@@ -9,10 +9,18 @@ Food Hunter 는 맛집 소개 사이트입니다. <br>
 
 ## 설치 및 실행 방법
 
+### nextApp 실행
+
 ```
 $ cd food-hunter
 $ npm install
 $ npm run start
+```
+
+### json-server 실행
+
+```
+$ json-server -p 9000 db.json
 ```
 
 - 사용한 테크 스택은 아래와 같습니다.
